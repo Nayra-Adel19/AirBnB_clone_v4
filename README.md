@@ -150,6 +150,11 @@ EOF  all  create  destroy  help  quit  show  update
 (hbnb) quit
 ```
 
+Based on web_flask, copy: web_flask/static, web_flask/templates/100-hbnb.html, web_flask/__init__.py and web_flask/100-hbnb.py into the web_dynamic folder
+Rename 100-hbnb.py to 0-hbnb.py
+Rename 100-hbnb.html to 0-hbnb.html
+Update 0-hbnb.py to replace the existing route to /0-hbnb/
+
 ## Bugs
 No known bugs at this time. 
 
@@ -158,6 +163,8 @@ Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twit
 Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)  
 Jhoan Zamora - [Github](https://github.com/jzamora5) / [Twitter](https://twitter.com/JhoanZamora10)  
 David Ovalle - [Github](https://github.com/Nukemenonai) / [Twitter](https://twitter.com/disartDave)
+Nayra Adel
+Bassant Adel
 
 Second part of Airbnb: Joann Vuong
 ## License
